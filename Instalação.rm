@@ -1,0 +1,2 @@
+RBENV = ferramenta que gerencia versões do Ruby
+IRB = ferramenta para testar códigos ruby no terminal sem precisar criar um arquivo para isso

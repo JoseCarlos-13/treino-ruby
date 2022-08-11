@@ -1,0 +1,8 @@
+MÉTODOS:
+  .class = diz o tipo de uma variável.
+  .to_i = converte um dado para o tipo numérico.
+  .to_s = converte um dado para o tipo string
+  load = importar um arquivo ruby
+    ex: load "Classes/Calculadora.rb"
+  private = metodo que restringe acesso a qualquer coisa que exista depois dele
+  attr_accessor = permite que você possa ler um atributo e modificá-lo

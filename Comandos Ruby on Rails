@@ -1,0 +1,2 @@
+rails new 'nomedoprojeto' = cria um novo projeto estruturado
+rails s = inicia o servidor gerando um link
